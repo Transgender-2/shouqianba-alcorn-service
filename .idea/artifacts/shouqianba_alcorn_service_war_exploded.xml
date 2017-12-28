@@ -7,7 +7,9 @@
           <element id="module-output" name="shouqianba-alcorn-service" />
         </element>
         <element id="directory" name="lib">
-          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/wosai/bsm/finance-lakala-api/1.0.0-SNAPSHOT/finance-lakala-api-1.0.0-20171226.105033-14.jar" output-file-name="finance-lakala-api-1.0.0-SNAPSHOT.jar" />
+          <element id="archive" name="shouqianba-alcorn-service-api-1.0.0-SNAPSHOT.jar">
+            <element id="module-output" name="shouqianba-alcorn-service-api" />
+          </element>
           <element id="file-copy" path="$MAVEN_REPOSITORY$/com/wosai/nextgen/springmvc-customization/2.0-SNAPSHOT/springmvc-customization-2.0-20171213.152751-6.jar" output-file-name="springmvc-customization-2.0-SNAPSHOT.jar" />
           <element id="file-copy" path="$MAVEN_REPOSITORY$/com/wosai/nextgen/data-jdbc/2.0-SNAPSHOT/data-jdbc-2.0-20171213.152747-12.jar" output-file-name="data-jdbc-2.0-SNAPSHOT.jar" />
           <element id="file-copy" path="$MAVEN_REPOSITORY$/com/wosai/nextgen/data-common/2.0-SNAPSHOT/data-common-2.0-20171213.152742-11.jar" output-file-name="data-common-2.0-SNAPSHOT.jar" />

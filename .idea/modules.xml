@@ -3,9 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/api/api.iml" filepath="$PROJECT_DIR$/api/api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/war/shouqianba-alcorn-service.iml" filepath="$PROJECT_DIR$/war/shouqianba-alcorn-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/api/shouqianba-alcorn-service-api.iml" filepath="$PROJECT_DIR$/api/shouqianba-alcorn-service-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/shouqianba-alcorn-service-parent.iml" filepath="$PROJECT_DIR$/shouqianba-alcorn-service-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shouqianba-alcorn-service.iml" filepath="$PROJECT_DIR$/shouqianba-alcorn-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/util/shouqianba-alcorn-service-util.iml" filepath="$PROJECT_DIR$/util/shouqianba-alcorn-service-util.iml" />
     </modules>
   </component>
 </project>
