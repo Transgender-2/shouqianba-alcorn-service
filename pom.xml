@@ -13,8 +13,7 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>util</module>
-        <module>war</module>
+        <module>push</module>
     </modules>
 
     <properties>
