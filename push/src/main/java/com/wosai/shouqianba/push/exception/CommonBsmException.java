@@ -8,11 +8,11 @@ public class CommonBsmException extends RuntimeException {
 		return DEFAULT_PARAMS;
 	}
 
-	CommonBsmException(String message) {
+	public CommonBsmException(String message) {
 		super(message);
 	}
 
-	CommonBsmException(String message, Throwable cause) {
+	public CommonBsmException(String message, Throwable cause) {
 		super(message, cause);
 	}
 

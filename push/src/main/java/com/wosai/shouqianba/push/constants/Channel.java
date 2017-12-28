@@ -37,4 +37,16 @@ public class Channel {
 			this.desc = desc;
 		}
 	}
+
+	public enum Type{
+		NOTICE(100,"公告"),
+		NOTIFICATION(101,"通知");
+		private int code;
+		private String desc;
+
+		Type(int code, String desc) {
+			this.code = code;
+			this.desc = desc;
+		}
+	}
 }
