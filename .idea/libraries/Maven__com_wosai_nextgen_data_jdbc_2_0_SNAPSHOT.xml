@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wosai.nextgen:data-jdbc:2.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wosai/nextgen/data-jdbc/2.0-SNAPSHOT/data-jdbc-2.0-20171213.152747-12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wosai/nextgen/data-jdbc/2.0-SNAPSHOT/data-jdbc-2.0-20171213.152747-12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wosai/nextgen/data-jdbc/2.0-SNAPSHOT/data-jdbc-2.0-20171213.152747-12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

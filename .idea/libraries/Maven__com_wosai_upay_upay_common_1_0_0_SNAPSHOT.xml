@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wosai.upay:upay-common:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wosai/upay/upay-common/1.0.0-SNAPSHOT/upay-common-1.0.0-20171213.150749-29.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wosai/upay/upay-common/1.0.0-SNAPSHOT/upay-common-1.0.0-20171213.150749-29-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wosai/upay/upay-common/1.0.0-SNAPSHOT/upay-common-1.0.0-20171213.150749-29-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
